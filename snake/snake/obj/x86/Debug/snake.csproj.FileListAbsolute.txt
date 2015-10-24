@@ -1,0 +1,4 @@
+D:\User\Новая папка (2)\snake\snake\bin\Debug\snake.exe
+D:\User\Новая папка (2)\snake\snake\bin\Debug\snake.pdb
+D:\User\Новая папка (2)\snake\snake\obj\x86\Debug\snake.exe
+D:\User\Новая папка (2)\snake\snake\obj\x86\Debug\snake.pdb
